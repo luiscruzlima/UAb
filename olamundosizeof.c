@@ -3,6 +3,7 @@
 
 int main()
 {
+    // este programa é o exercicio da pag 29 do manual
     setlocale(LC_ALL,"Portuguese");
     
     printf ("Olá Mundo!\n");
